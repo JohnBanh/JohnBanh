@@ -7,10 +7,13 @@ Hi there! 👋 I'm John Banh
 
 🛠 Skills
 Languages: Python, Java, C++, SQL
+
 Web Development: HTML, CSS, JavaScript
+
 Tools & Frameworks: Git, React, Node.js
-Data Analysis: Excel, R, Tableau
-Others: Agile methodologies, Project Management
+
+Data Analysis: Excel
+
 🎓 Education
 Monash University - Melbourne, Australia
 Bachelor of Commerce Computer Science
